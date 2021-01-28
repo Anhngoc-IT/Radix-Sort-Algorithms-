@@ -7,7 +7,7 @@ package btec.fpt.edu.vn.radixsort2;
 
 /**
  *
- * @author Ngoc
+ * @author Group2.
  */
 import java.util.*;
 import java.io.*;
